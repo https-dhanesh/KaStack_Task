@@ -1,5 +1,4 @@
-I have replaced my postgre username and password with placeholders in the DB_URL
-
+# I have used YOUR_USER and YOUR_PASSWORD instead of my crendentials while pushing the code
 
 # End-to-End Data Pipeline (KaStack Intern Task)
 
