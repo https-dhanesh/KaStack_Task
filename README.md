@@ -1,4 +1,4 @@
-# I have used YOUR_USER and YOUR_PASSWORD instead of my crendentials while pushing the code
+### I have used YOUR_USER and YOUR_PASSWORD instead of my credentials while pushing the code
 
 # End-to-End Data Pipeline (KaStack Intern Task)
 
